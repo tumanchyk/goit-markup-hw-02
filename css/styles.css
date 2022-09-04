@@ -13,7 +13,6 @@ body {
   background: var(--primary-color-bg);
   font-family: 'Roboto', sans-serif;
   letter-spacing: 0.03em;
-  font-weight: 400;
   line-height: 1.7;
   font-size: 14px;
   color: var(--primary-black-color);
